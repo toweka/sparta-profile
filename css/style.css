@@ -11,6 +11,10 @@
   background-size: cover;
   background-image: url(http://www.shreeramlab.in/images/product-images-4.jpg);
 }
+.jt-image-3 {
+  background-size: cover;
+  background-image: url(http://www.acwhiteayr.co.uk/wp-content/uploads/2015/03/e1.jpg);
+}
 
 .jt-text{
   background-color: rgba(255,255,255,0.5);
@@ -23,4 +27,8 @@
 
 .education h4 {
   margin: 25px;
+}
+
+.date {
+  margin: 30px;
 }
