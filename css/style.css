@@ -21,8 +21,8 @@
   color: #292A26;
 }
 
-.col-xs-9 {
-  padding-right: 10px;
+.jumbotron {
+  margin: 0px;
 }
 
 .education h4 {
@@ -31,4 +31,38 @@
 
 .date {
   margin: 30px;
+}
+
+.background-1 {
+  background-color: #E3FAEC;
+}
+
+.background-2 {
+  background-color: #E3FAEC;
+}
+
+.background-3 {
+  background-color: #E3FAEC;
+}
+
+.background-3 h3 {
+  margin-top: 0px;
+}
+
+.footer {
+  background: #061D25;
+  padding: 10px 0;
+}
+.footer a {
+  color: #70726F;
+  font-size: 20px;
+  padding: 10px;
+  border-right: 1px solid #70726F;
+  transition: all .5s ease;
+}
+.footer a:first-child {
+  border-left: 1px solid #70726F;
+}
+.footer a:hover {
+  color: white;
 }
